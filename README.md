@@ -4,7 +4,7 @@ Site de catálogo de pods desenvolvido para facilitar a visualização dos produ
 
 ## 🌐 Acesse o site
 
-🔗 [www.phpods.com.br](https://www.phpods.com.br)
+🔗 [www.phpodss.com.br](https://www.phpodss.com.br)
 
 ---
 
