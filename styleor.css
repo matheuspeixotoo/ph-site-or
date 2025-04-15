@@ -167,13 +167,6 @@ body {
   object-fit: contain;
 }
 
-body,
-button,
-input,
-textarea {
-  font-family: "Poppins", sans-serif;
-}
-
 .fechar-btn {
   margin-top: 15px;
   padding: 10px 24px;
